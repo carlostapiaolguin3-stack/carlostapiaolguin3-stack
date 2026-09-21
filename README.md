@@ -6,8 +6,9 @@ microservices, and the kind of legacy migration where the old platform cannot be
 switched off while you replace it.
 
 For the past year I've been running teams of AI agents against my own production
-systems and measuring what happens. Not benchmarks — real repositories, where the
-task isn't curated and someone has to verify the result before it counts.
+systems and measuring what happens — 5,605 turns logged and priced one by one, as
+of September 2026. Not benchmarks: real repositories, where the task isn't curated
+and someone has to verify the result before it counts.
 
 **I publish the measurements, including the ones that went against what I expected.**
 
