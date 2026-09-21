@@ -46,5 +46,4 @@ Each one has the experiment, the sample and the source behind it →
 ### Elsewhere
 
 [carlostapia.cl](https://carlostapia.cl) · notes and measurements &nbsp;·&nbsp;
-[LinkedIn](https://www.linkedin.com/in/carlostapiaolguin) &nbsp;·&nbsp;
-`hola@carlostapia.cl`
+[LinkedIn](https://www.linkedin.com/in/carlostapiaolguin)
